@@ -1,0 +1,7 @@
+.flex {
+  display: flex;
+  gap: 30px;
+}
+.border {
+  border: 1px solid grey;
+}
